@@ -1,0 +1,15 @@
+dataset	accession	doi	build	sample	ancestry	role	status	source
+Swedish microbiome GWAS	GCST90670368-GCST90671939	10.1038/s41588-026-02512-2	GRCh37 source; lifted to GRCh38	16,017	European	Discovery microbiome cohort	DIRECTLY_VERIFIED	METHODS_AND_DATASETS_INVENTORY.md; inputs_241_manifest.tsv
+HUNT microbiome GWAS	GCST90666541-GCST90667549	10.1038/s41588-026-02502-4	GRCh38 in project input (release provenance also reports GRCh37-to-GRCh38 standardization)	12,652	European	Cross-cohort composition validation	DISCREPANCY_FLAGGED	01_harmonize_trait.py; METHODS_AND_DATASETS_INVENTORY.md
+SCZ PGC3 wave3	PGC3_SCZ_wave3.european.autosome.public.v3; Figshare 19426775	10.1038/s41586-022-04434-5	GRCh37 source; harmonized GRCh38	52,017 cases; 75,889 controls; 1,369 trios (per-variant maxima 53,386/77,258)	European	Disease GWAS	DIRECTLY_VERIFIED	DISEASE_SOURCE_ACCESS_AUDIT.tsv; METHODS_AND_DATASETS_INVENTORY.md
+BD PGC4	bip2024_eur_no23andMe; Figshare 27216117	10.1038/s41586-024-08468-9	GRCh37 source; harmonized GRCh38	59,287 cases; 781,022 controls	European	Disease GWAS	DIRECTLY_VERIFIED	DISEASE_SOURCE_ACCESS_AUDIT.tsv; METHODS_AND_DATASETS_INVENTORY.md
+AD EADB/IGAP/PGC no-biobank	GCST90704648	10.1038/s41588-026-02583-1	GRCh38	Case/control totals not verified in local audit	European	Disease GWAS	PARTIALLY_VERIFIED	DISEASE_SOURCE_ACCESS_AUDIT.tsv; METHODS_AND_DATASETS_INVENTORY.md
+Crohn disease	GCST004132	10.1038/ng.3760	GRCh37 source; harmonized GRCh38	12,194 cases; 28,072 controls	European	Disease GWAS	DIRECTLY_VERIFIED	DISEASE_SOURCE_ACCESS_AUDIT.tsv
+Ulcerative colitis	GCST004133	10.1038/ng.3760	GRCh37 source; harmonized GRCh38	12,366 cases; 33,609 controls	European	Disease GWAS	DIRECTLY_VERIFIED	DISEASE_SOURCE_ACCESS_AUDIT.tsv
+1000 Genomes Phase 3 EUR	1000G EUR GRCh38 PLINK bundle		GRCh38	489	European	Allele/MAF/LD reference	DIRECTLY_VERIFIED	PHASE9 FULL_METHODS_AND_QC.md
+baselineLD	baselineLD v2.2		GRCh38	Reference annotation bundle		S-LDSC baseline annotations	DIRECTLY_VERIFIED	Phase12A/17 scripts
+CATlas adult brain snATAC	GEO GSE244618	10.1126/science.adf7044	GRCh38	1,134,360 nuclei; 3 neurotypical adult male donors	Not used for GWAS	Cell-associated accessible cCRE annotations	DIRECTLY_VERIFIED	PHASE9 source manifest; METHODS_AND_DATASETS_INVENTORY.md
+Zhao healthy intestine atlas	Zenodo 21508422	10.1038/s41588-026-02755-z	GRCh38	Cell/donor counts annotation-specific; healthy controls	Not used for GWAS	Cell-type DAR annotations	DIRECTLY_VERIFIED	PHASE9 source manifest
+Bryois brain cell eQTL	Zenodo 7276971; EGA EGAS00001006345	10.1038/s41593-022-01128-z	hg19 and GRCh38 supplied	144-192 by cell type		SCZ chr3 molecular-QTL context	DIRECTLY_VERIFIED	Phase15 CELL_QTL_RESOURCE_AUDIT.tsv
+CEDAR-2 gut cell eQTL	Zenodo 21457760	10.1038/s41467-026-76672-4	GRCh38	57 healthy analyzed (60 collected)		UC chr5 and FUT2 molecular-QTL context	DIRECTLY_VERIFIED	Phase15 CELL_QTL_RESOURCE_AUDIT.tsv
+GENCODE	GENCODE v48 basic GTF		GRCh38	NA		Gene annotation	DIRECTLY_VERIFIED	Phase15 CELL_QTL_RESOURCE_AUDIT.tsv

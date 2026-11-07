@@ -1,0 +1,5 @@
+# Exact historical Python and pyliftover versions were not consistently recorded.
+# Names below reflect imports in the selected public scripts; resolve versions in a controlled environment.
+numpy
+pandas
+pyliftover

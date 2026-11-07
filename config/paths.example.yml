@@ -1,0 +1,13 @@
+# Copy this file outside version control and replace placeholders with local paths.
+project_root: /path/to/local/analysis_root
+trait_manifest: /path/to/trait_manifest.tsv
+common_snp_ids: /path/to/common_snp_universe_ids.txt
+hg19_to_hg38_chain: /path/to/hg19ToHg38.over.chain.gz
+ldsc_python: /path/to/python2.7
+
+# Equivalent environment variables used by the staged scripts:
+# MHFNDD_PROJECT_ROOT
+# MHFNDD_TRAIT_MANIFEST
+# MHFNDD_COMMON_SNP_IDS
+# MHFNDD_HG19_TO_HG38_CHAIN
+# MHFNDD_LDSC_PYTHON

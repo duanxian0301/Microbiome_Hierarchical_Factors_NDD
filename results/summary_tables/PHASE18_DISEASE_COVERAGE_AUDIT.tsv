@@ -1,0 +1,9 @@
+cell_annotation	unified_HUNT_status	disease_models_expected	disease_models_available	missing_diseases	additional_workload_models	coverage_decision
+brain__BNGA	COMPLETE_SUPPORT	5	5	NONE	0	COMPLETE
+brain__ET	COMPLETE_SUPPORT	5	5	NONE	0	COMPLETE
+brain__ITL6_2_2	COMPLETE_SUPPORT	5	5	NONE	0	COMPLETE
+brain__SMC	COMPLETE_SUPPORT	5	5	NONE	0	COMPLETE
+brain__SNCG_1	COMPLETE_SUPPORT	5	5	NONE	0	COMPLETE
+gut__Early_Colonocyte	COMPLETE_SUPPORT	5	5	NONE	0	COMPLETE
+gut__Macrophage	COMPLETE_SUPPORT	5	5	NONE	0	COMPLETE
+gut__NaiveB	COMPLETE_SUPPORT	5	5	NONE	0	COMPLETE

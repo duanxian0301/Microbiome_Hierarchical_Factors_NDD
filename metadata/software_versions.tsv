@@ -1,0 +1,16 @@
+component	version	scope	status	source
+R	4.4.0 (2024-04-24 ucrt)	Global/cell GFA and R_ldsc	DIRECTLY_VERIFIED	Swedish model sessionInfo; R_ldsc sessionInfo
+GFA	1.0.0.0470 as sessionInfo; narrative tables abbreviate 1.0.0.470	Global and cell GFA	DIRECTLY_VERIFIED_WITH_DISPLAY_DISCREPANCY	model sessionInfo; PHASE9 model summary
+GFA source commit	eb582bb28725b28dd8b4b188da8579288a9e69b7	Cell GFA	DIRECTLY_VERIFIED	PHASE9 _stagea_model_audit_checkpoint.tsv
+flashier	1.0.60	GFA	DIRECTLY_VERIFIED	model sessionInfo
+ebnm	1.1-42	GFA	DIRECTLY_VERIFIED	model sessionInfo
+PLINK2	v2.0.0-b.1-dev 64-bit (7 Oct 2026)	LD pruning	DIRECTLY_VERIFIED	FULL_SCALE_GFA_FINAL_EVALUATION/ld_prune/*.log
+LDSC	v1.0.1	Disease S-LDSC	DIRECTLY_VERIFIED	Phase12A/17 logs and methods
+Python runtime for LDSC	Python 2.7 bundled interpreter	LDSC/munge_sumstats	DIRECTLY_VERIFIED_PATH_ONLY	run_primary_phase12a.py PY27 path
+Python runtime for project orchestration	Not recorded consistently in historical logs	Harmonization/audit scripts	UNAVAILABLE	executed Python scripts/logs
+pyliftover	Not recorded	GRCh37-to-GRCh38 conversion	UNAVAILABLE	01_harmonize_trait.py
+UCSC hg19ToHg38 chain	local file hg19ToHg38.over.chain.gz; checksum should be cited from input manifest	Coordinate conversion	DIRECTLY_VERIFIED_FILE	01_harmonize_trait.py
+coloc	6.0.1	Regional and molecular-QTL coloc.abf	DIRECTLY_VERIFIED	PHASE16_ANALYSIS_QC.md
+susieR	0.14.2	Eligibility audit only; SuSiE not run	DIRECTLY_VERIFIED	PHASE16_ANALYSIS_QC.md
+HyPrColoc	Not installed	Three-trait eligibility audit	DIRECTLY_VERIFIED	PHASE16_ANALYSIS_QC.md
+moloc	Not installed	Three-trait eligibility audit	DIRECTLY_VERIFIED	PHASE16_ANALYSIS_QC.md

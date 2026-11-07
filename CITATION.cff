@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code or its derived result tables, please cite this repository and the associated article."
+title: "Microbiome Hierarchical Factors and Neuropsychiatric Disease"
+type: software
+authors:
+  - family-names: Shen
+    given-names: Jing
+repository-code: "https://github.com/duanxian0301/Microbiome_Hierarchical_Factors_NDD"
