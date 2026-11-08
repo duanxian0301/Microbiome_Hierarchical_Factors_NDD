@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 1.0.0 - 2026-11-08
 
 - Prepared the initial reproducibility staging package.
 - Selected final analysis scripts using the final Methods audit.
@@ -8,4 +8,5 @@
 - Added final integrated small result tables and figure source data.
 - Added data-access, analysis-map, and reproducibility documentation.
 
-No public version is assigned until author, citation, licence, and archive metadata are confirmed.
+- Added validated Citation File Format metadata and explicit code/data licence scopes.
+- Prepared the immutable GitHub–Zenodo archival release.

@@ -48,4 +48,6 @@ python tests/smoke_test.py
 
 Author: Jing Shen. Citation metadata are provided in `CITATION.cff`; no affiliation or ORCID is asserted.
 
-No explicit reuse licence is currently granted. The absence of a `LICENSE` file means that normal copyright restrictions apply unless the rights holder later selects a licence. Third-party data remain subject to their original terms.
+Original project code in `scripts/`, `tests/`, and `config/` is licensed under the [MIT License](LICENSE). Study-generated derived tables, figure source data, metadata, documentation, and supplementary workbooks are licensed under [Creative Commons Attribution 4.0 International](LICENSE-DATA). See [LICENSE_SCOPE.md](LICENSE_SCOPE.md) for the controlling scope and third-party exclusions.
+
+Third-party data, code, and software are not relicensed. Raw GWAS, LD-reference, individual-level, controlled-access, and third-party molecular-QTL data are not redistributed here and remain subject to their original providers' terms.

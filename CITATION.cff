@@ -3,6 +3,8 @@ message: "If you use this code or its derived result tables, please cite this re
 title: "Microbiome Hierarchical Factors and Neuropsychiatric Disease"
 type: software
 version: 1.0.0
+date-released: 2026-11-08
+license: MIT
 abstract: >-
   Reproducibility code, final derived summary tables, supplementary workbooks,
   and figure source data for analyses of host genetic organization across 241
