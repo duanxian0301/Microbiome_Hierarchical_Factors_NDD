@@ -2,6 +2,19 @@ cff-version: 1.2.0
 message: "If you use this code or its derived result tables, please cite this repository and the associated article."
 title: "Microbiome Hierarchical Factors and Neuropsychiatric Disease"
 type: software
+version: 1.0.0
+abstract: >-
+  Reproducibility code, final derived summary tables, supplementary workbooks,
+  and figure source data for analyses of host genetic organization across 241
+  gut microbial species in the Swedish and HUNT cohorts, including global GFA,
+  cross-cohort comparison, phylogenetic organization, cell-regulatory analyses,
+  disease S-LDSC, and targeted regional and molecular-QTL follow-up.
+keywords:
+  - microbiome GWAS
+  - genetic factor analysis
+  - cross-cohort validation
+  - stratified LD score regression
+  - molecular QTL
 authors:
   - family-names: Shen
     given-names: Jing
