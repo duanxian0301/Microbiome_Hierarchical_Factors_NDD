@@ -1,5 +1,7 @@
 # Microbiome Hierarchical Factors and Neuropsychiatric Disease
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24046856.svg)](https://doi.org/10.5281/zenodo.24046856)
+
 This repository is the reproducibility-oriented code and derived-results package for a study of host genetic organization across 241 gut microbial species in the Swedish and HUNT cohorts. The analysis combines cohort-specific global genetic factor analysis (GFA), cross-cohort comparison of high-loading species, phylogenetic organization, cell-regulatory annotations, disease stratified LD-score regression, and targeted regional and molecular-QTL follow-up.
 
 ## Scope
@@ -47,6 +49,12 @@ python tests/smoke_test.py
 ## Citation and licence
 
 Author: Jing Shen. Citation metadata are provided in `CITATION.cff`; no affiliation or ORCID is asserted.
+
+For the archived release used with the final submission, cite:
+
+> Shen, J. (2026). *Microbiome Hierarchical Factors and Neuropsychiatric Disease* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24046856
+
+The version-specific DOI above identifies the immutable `v1.0.0` archive. The concept DOI, [10.5281/zenodo.24046855](https://doi.org/10.5281/zenodo.24046855), resolves to the latest archived version. The corresponding GitHub Release is [v1.0.0](https://github.com/duanxian0301/Microbiome_Hierarchical_Factors_NDD/releases/tag/v1.0.0).
 
 Original project code in `scripts/`, `tests/`, and `config/` is licensed under the [MIT License](LICENSE). Study-generated derived tables, figure source data, metadata, documentation, and supplementary workbooks are licensed under [Creative Commons Attribution 4.0 International](LICENSE-DATA). See [LICENSE_SCOPE.md](LICENSE_SCOPE.md) for the controlling scope and third-party exclusions.
 
